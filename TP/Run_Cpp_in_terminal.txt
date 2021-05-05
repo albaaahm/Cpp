@@ -1,0 +1,2 @@
+Compile in teminal: g++ -o program program.cpp
+Execute: ./program
